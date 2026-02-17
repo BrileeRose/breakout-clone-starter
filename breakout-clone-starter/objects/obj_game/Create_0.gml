@@ -1,3 +1,5 @@
 //Initalize the score
+scored=0;
+//Initalizelives
+lives_left=3;
 
-//Initalize the lives
